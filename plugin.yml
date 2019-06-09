@@ -1,0 +1,7 @@
+name: TurfWars
+main: TurfWars\Main
+version: 1.0.0
+api: 3.0.0
+load: POSTWORLD
+author: SKyTestBucket38
+description: TurfWars!
